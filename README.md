@@ -12,7 +12,7 @@ Route a single conversation through Claude, Gemini, or OpenRouter — or skip th
 [![Runs on GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-181717?style=flat-square&logo=github)](#deployment)
 [![WebGPU](https://img.shields.io/badge/local%20mode-WebGPU-9b7ede?style=flat-square)](#local-mode-no-api-key)
 
-<sub>Built by <strong>Muhammad Saood Alam</strong> · AI Research alum, NETSOL Technologies</sub>
+<sub>Built by <strong>Muhammad Saood Alam</strong> · AI/ML Engineer, NETSOL Technologies</sub>
 
 </div>
 
